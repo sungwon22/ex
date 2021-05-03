@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525210824952",
+    "project_id": "exapmle-ad748",
+    "storage_bucket": "exapmle-ad748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525210824952:android:c689697c8de2bbe4d54b0d",
+        "android_client_info": {
+          "package_name": "com.example.ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525210824952-5l5o2lq8pqu82l2g5uqc6973ua2jtpll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWHjf1V1428s-ez0gQukPGfDTw6BEcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525210824952-5l5o2lq8pqu82l2g5uqc6973ua2jtpll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
